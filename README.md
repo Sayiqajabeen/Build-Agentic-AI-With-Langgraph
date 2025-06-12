@@ -1,5 +1,5 @@
 # Build-Agentic-AI-with-Langgraph
-Created three tools arxiv, wikipedia, and tavily. Combining all three tools in list &amp; Integrating the LLM. Execute the LLM with tools.AI Assistant can create entrie application in Langraph.Langgraph do specific tasks like search, summarize, and generate text. 
+Created three tools arxiv, wikipedia, and tavily. Combining all three tools in list &amp; Integrating the LLM. Execute the LLM with tools.AI Assistant can create entire application in Langraph.Langgraph do specific tasks like search, summarize, and generate text. 
 # Chatbot with Multiple Tool Integrations
 
 ## 📖 Overview
